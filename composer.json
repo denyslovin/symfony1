@@ -1,5 +1,5 @@
 {
-    "name": "denyslovin/symfony",
+    "name": "denyslovin/symfony1",
     "require": {
         "php": ">=5.3.0"
     }
